@@ -1,0 +1,613 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Nikhil Krishna | Software Tester</title>
+
+    <meta
+        name="description"
+        content="Nikhil Krishna - Software Tester and QA Portfolio"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <header class="navbar">
+
+        <a href="#home" class="logo">
+            NK<span>.</span>
+        </a>
+
+        <nav id="nav">
+            <a href="#home">Home</a>
+            <a href="#about">About</a>
+            <a href="#skills">Skills</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+
+        <button class="menu-btn" id="menuBtn">
+            ☰
+        </button>
+
+    </header>
+
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+
+        <div class="hero-content">
+
+            <p class="small-title">
+                SOFTWARE TESTER • QA
+            </p>
+
+            <h1>
+                Hi, I'm
+                <span>Nikhil Krishna</span>
+            </h1>
+
+            <h2>
+                I find bugs before your users do.
+            </h2>
+
+            <p class="hero-description">
+                Software Testing professional focused on Manual Testing,
+                Test Case Design, Bug Reporting, Regression Testing,
+                Exploratory Testing, Selenium Automation and API Testing.
+            </p>
+
+            <div class="hero-buttons">
+
+                <a href="#projects" class="btn primary">
+                    View My Projects
+                </a>
+
+                <a href="#contact" class="btn secondary">
+                    Contact Me
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <div class="terminal">
+
+            <div class="terminal-header">
+
+                <span></span>
+                <span></span>
+                <span></span>
+
+                <p>qa_testing.js</p>
+
+            </div>
+
+            <div class="terminal-body">
+
+                <p>
+                    <b>const</b> tester = {
+                </p>
+
+                <p class="indent">
+                    role: <em>"Software Tester"</em>,
+                </p>
+
+                <p class="indent">
+                    testing: [
+                </p>
+
+                <p class="indent2">
+                    <em>"Manual Testing"</em>,
+                </p>
+
+                <p class="indent2">
+                    <em>"Automation"</em>,
+                </p>
+
+                <p class="indent2">
+                    <em>"API Testing"</em>
+                </p>
+
+                <p class="indent">
+                    ],
+                </p>
+
+                <p class="indent">
+                    status: <em>"Ready to test"</em>
+                </p>
+
+                <p>
+                    };
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- About -->
+    <section id="about" class="section">
+
+        <p class="section-label">
+            ABOUT ME
+        </p>
+
+        <h2 class="section-title">
+            Quality is not an afterthought.
+        </h2>
+
+
+        <div class="about-container">
+
+            <div class="about-text">
+
+                <p>
+                    I'm Nikhil Krishna, an aspiring Software Tester / QA
+                    professional with hands-on practice in manual testing
+                    and a growing focus on automation and API testing.
+                </p>
+
+                <p>
+                    I enjoy analyzing requirements, creating test scenarios
+                    and test cases, reproducing defects, documenting clear
+                    bug reports and validating fixes.
+                </p>
+
+                <p>
+                    My goal is to help development teams deliver reliable,
+                    secure and user-friendly software.
+                </p>
+
+            </div>
+
+
+            <div class="stats">
+
+                <div class="stat-card">
+                    <h3>Manual</h3>
+                    <p>Testing</p>
+                </div>
+
+                <div class="stat-card">
+                    <h3>API</h3>
+                    <p>Testing</p>
+                </div>
+
+                <div class="stat-card">
+                    <h3>Web</h3>
+                    <p>Testing</p>
+                </div>
+
+                <div class="stat-card">
+                    <h3>Automation</h3>
+                    <p>Learning</p>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Skills -->
+    <section id="skills" class="section dark-section">
+
+        <p class="section-label">
+            SKILLS
+        </p>
+
+        <h2 class="section-title">
+            My Testing Toolkit
+        </h2>
+
+
+        <div class="skills-grid">
+
+            <div class="skill-card">
+
+                <h3>Manual Testing</h3>
+
+                <p>
+                    Functional Testing, Regression Testing,
+                    Retesting, Smoke Testing, Sanity Testing,
+                    Exploratory Testing and Acceptance Testing.
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>Test Case Design</h3>
+
+                <p>
+                    Test scenarios, test cases, positive testing,
+                    negative testing, boundary value analysis
+                    and requirement-based testing.
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>Bug Reporting</h3>
+
+                <p>
+                    Defect identification, reproduction steps,
+                    expected vs actual results, severity and
+                    priority classification.
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>Selenium</h3>
+
+                <p>
+                    Selenium WebDriver with Java/Python and
+                    automation scripting fundamentals.
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>API Testing</h3>
+
+                <p>
+                    Postman, REST APIs, request and response
+                    validation and API verification.
+                </p>
+
+            </div>
+
+
+            <div class="skill-card">
+
+                <h3>Programming</h3>
+
+                <p>
+                    Python, Java, SQL, HTML, CSS,
+                    Django and React fundamentals.
+                </p>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Testing Projects -->
+    <section id="projects" class="section">
+
+        <p class="section-label">
+            TESTING PROJECTS
+        </p>
+
+        <h2 class="section-title">
+            Hands-on Testing Experience
+        </h2>
+
+
+        <div class="projects-grid">
+
+
+            <div class="project-card">
+
+                <span class="tag">
+                    WEB TESTING
+                </span>
+
+                <h3>
+                    Swag Labs
+                </h3>
+
+                <p>
+                    Performed functional and exploratory testing
+                    for an e-commerce application covering
+                    products, cart, checkout and application state.
+                </p>
+
+                <ul>
+                    <li>Test Case Design</li>
+                    <li>Bug Reporting</li>
+                    <li>Severity & Priority</li>
+                    <li>Regression Testing</li>
+                </ul>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <span class="tag">
+                    MOBILE TESTING
+                </span>
+
+                <h3>
+                    Comtone Mobile App
+                </h3>
+
+                <p>
+                    Practiced functional and usability testing
+                    of a mobile application and documented
+                    defects found during testing.
+                </p>
+
+                <ul>
+                    <li>Functional Testing</li>
+                    <li>UI Validation</li>
+                    <li>Negative Testing</li>
+                    <li>Bug Reporting</li>
+                </ul>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <span class="tag">
+                    MOBILE / E-COMMERCE
+                </span>
+
+                <h3>
+                    Bharlo
+                </h3>
+
+                <p>
+                    Exploratory testing across registration,
+                    location, product availability, cart and
+                    order-related flows.
+                </p>
+
+                <ul>
+                    <li>Exploratory Testing</li>
+                    <li>Usability Testing</li>
+                    <li>Functional Validation</li>
+                    <li>Defect Analysis</li>
+                </ul>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <span class="tag">
+                    WEB TESTING
+                </span>
+
+                <h3>
+                    Jaypore
+                </h3>
+
+                <p>
+                    Practiced functional and UI testing for
+                    e-commerce workflows and documented
+                    realistic defects.
+                </p>
+
+                <ul>
+                    <li>Functional Testing</li>
+                    <li>UI Testing</li>
+                    <li>Negative Scenarios</li>
+                    <li>Defect Documentation</li>
+                </ul>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Development Projects -->
+    <section class="section dark-section">
+
+        <p class="section-label">
+            DEVELOPMENT PROJECTS
+        </p>
+
+        <h2 class="section-title">
+            Projects Beyond Testing
+        </h2>
+
+
+        <div class="projects-grid">
+
+
+            <div class="project-card">
+
+                <h3>
+                    Employee Management System
+                </h3>
+
+                <p>
+                    Django, Python and SQLite based employee
+                    management application with CRUD operations,
+                    search and Active/Inactive status.
+                </p>
+
+                <div class="tech">
+                    Django • Python • SQLite
+                </div>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <h3>
+                    QuickCart Smart Shopping
+                </h3>
+
+                <p>
+                    Smart shopping application developed using
+                    Java and MySQL with QR-based virtual cart
+                    functionality.
+                </p>
+
+                <div class="tech">
+                    Java • MySQL • Android
+                </div>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <h3>
+                    Emotion Recognition
+                </h3>
+
+                <p>
+                    Facial-expression recognition project using
+                    computer vision and deep learning.
+                </p>
+
+                <div class="tech">
+                    Python • OpenCV • TensorFlow
+                </div>
+
+            </div>
+
+
+            <div class="project-card">
+
+                <h3>
+                    Concert Ticket Booking
+                </h3>
+
+                <p>
+                    Full-stack ticket booking application with
+                    authentication, booking and API workflows.
+                </p>
+
+                <div class="tech">
+                    Django • React • REST API
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- Testing Knowledge -->
+    <section class="section">
+
+        <p class="section-label">
+            TESTING KNOWLEDGE
+        </p>
+
+        <h2 class="section-title">
+            What I Work With
+        </h2>
+
+
+        <div class="knowledge">
+
+            <span>Functional Testing</span>
+            <span>Regression Testing</span>
+            <span>Retesting</span>
+            <span>Smoke Testing</span>
+            <span>Sanity Testing</span>
+            <span>Exploratory Testing</span>
+            <span>Acceptance Testing</span>
+            <span>Positive Testing</span>
+            <span>Negative Testing</span>
+            <span>Test Planning</span>
+            <span>Test Case Design</span>
+            <span>Bug Life Cycle</span>
+            <span>Severity & Priority</span>
+            <span>Postman</span>
+            <span>Selenium</span>
+            <span>SQL</span>
+
+        </div>
+
+    </section>
+
+
+    <!-- Contact -->
+    <section id="contact" class="contact-section">
+
+        <p class="section-label">
+            CONTACT
+        </p>
+
+        <h2>
+            Let's build better software.
+        </h2>
+
+        <p>
+            I'm open to Junior Software Testing / QA opportunities
+            and testing projects.
+        </p>
+
+
+        <div class="contact-buttons">
+
+            <a
+                class="btn primary"
+                href="mailto:nikhilkrishna1212@gmail.com"
+            >
+                Email Me
+            </a>
+
+            <a
+                class="btn secondary"
+                href="https://github.com/Doxgtr"
+                target="_blank"
+            >
+                GitHub
+            </a>
+
+            <a
+                class="btn secondary"
+                href="https://www.linkedin.com/"
+                target="_blank"
+            >
+                LinkedIn
+            </a>
+
+        </div>
+
+
+        <p class="email">
+            nikhilkrishna1212@gmail.com
+        </p>
+
+    </section>
+
+
+    <!-- Footer -->
+    <footer>
+
+        <p>
+            © <span id="year"></span>
+            Nikhil Krishna. All rights reserved.
+        </p>
+
+    </footer>
+
+
+    <script src="script.js"></script>
+
+</body>
+</html>
